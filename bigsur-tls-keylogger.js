@@ -41,7 +41,8 @@
 /*
  * CALLBACK OFFSET adapted for Big Sur
  */
- var CALLBACK_OFFSET = 0x2b8;
+ var CALLBACK_OFFSET = 0x2f8;
+
 
 
 // Logging function, reads null terminated string from address in line

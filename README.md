@@ -4,7 +4,7 @@ This repository contains a [Frida](https://frida.re/) script to log session keys
 
 No need for proxy interception to decrypt traffic anymore, though it might require to deactivate SIP.
 
-Tested on a MacbookPro13,3 on Catalina, and Big Sur 11.3 beta 4.
+Tested on a MacbookPro13,3 on Catalina, and Big Sur 11.6.
 
 Credits to [Andy Davies](https://codeshare.frida.re/@andydavies/ios-tls-keylogger/) for the original script that works with iOS devices.
 
